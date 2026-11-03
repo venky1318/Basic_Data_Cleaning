@@ -1,0 +1,8 @@
+Metric,Value
+Original records,12
+Duplicate records removed,2
+Records after duplicate removal,10
+Missing cells after type correction,4
+Missing cells after treatment,0
+Remaining duplicate records,0
+Final cleaned records,10
